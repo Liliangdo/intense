@@ -18,6 +18,7 @@ gem 'simple_form'
 gem 'jquery-turbolinks'
 gem "cocoon"
 gem 'autoprefixer-rails'
+gem 'omniauth-facebook'
 
 group :development, :test do
   gem 'binding_of_caller'
